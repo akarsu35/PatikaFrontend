@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!-- Kullanıcının e-posta adresini girebileceği bir e-posta giriş alanı.
+
+
+3. Kullanıcının parolasını girebileceği bir parola giriş alanı.
+
+
+4. Kullanıcının cinsiyetini seçebileceği iki radyo düğmesi (Erkek ve Kadın).
+
+
+5. Kullanıcının bir dizi seçenek arasından favori meyvesini seçebileceği bir açılır liste (örneğin, Elma, Muz, Çilek).
+
+
+6. Kullanıcının bir mesaj yazabileceği bir metin alanı.
+
+
+7. Tüm bilgileri göndermek için bir "Gönder" düğmesi. -->
+    <form>
+        <!-- name  -->
+        <label for="name">Adı:</label> <br>
+        <input type="text" name="name" required placeholder="Adınız"><br><br>
+
+        <!-- surname -->
+        <label for="surname">Soyadı:</label> <br>
+        <input type="text" name="surname" required placeholder="soyadınız"><br><br>
+
+        <!-- Password -->
+        <label for="password">Şifre:</label> <br>
+        <input type="password" name="password" required placeholder="şifre"><br><br>
+
+        <!-- email -->
+        <label for="email">E-mail:</label> <br>
+        <input type="email" name="email" required placeholder="abc@abc.com"><br><br>
+
+        <!-- gender radio button -->
+        <p>Cinsiyet:</p>
+        <input type="radio" name="gender"  required>
+        <label for="male">Erkek</label><br>
+        <input type="radio" name="gender"  required>
+        <label for="female">Kadın</label><br><br>
+
+        <!-- Select  -->
+        <label for="fruit">Favori Meyve:</label><br>
+        <select  name="fruit">
+            <option value="turkey">Muz</option>
+            <option value="usa">Kiraz</option>
+            <option value="germany">Elma</option>
+        </select><br><br>
+        <label for="message">Mesaj Bırakabilirsiniz</label><br>
+        <textarea name="message" cols="30" rows="10" placeholder="düşünceleriniz bizim için değerlidir"></textarea><br><br>
+        
+        <!-- submit button -->
+        <input type="submit" value="Gönder">
+
+
+
+    </form>
+</body>
+</html>
