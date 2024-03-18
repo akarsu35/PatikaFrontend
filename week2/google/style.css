@@ -1,0 +1,157 @@
+
+/* top right items(gmail-görseller-dots-pict. */
+.float-r {
+    float:right;
+    
+    height: 50px;  
+
+}
+.t-padding {
+    padding-top: 15px;
+}
+
+.t-margin {
+    margin: 10px;
+}
+.clearfix {
+    clear: both;
+}
+.text-align {
+    text-align: center;
+
+}
+/* *********************************************** */
+
+/* empty div özellikleri */
+.empty {
+    height: 250px;
+
+}
+
+
+/* searc bar */
+.RNNXgb {
+   
+    
+    min-height: 44px;
+    background: #fff;
+    border: 1px solid #dfe1e5;
+  
+    
+    margin: 0 auto;
+    width: 638px;
+   
+   
+} 
+/* search bar hover */
+.RNNXgb:hover, .sbfc .RNNXgb {
+    background: #fff;
+    box-shadow: 0 1px 6px rgba(32,33,36,.28);
+    border-color: transparent;
+}
+/* harf çevirici aracı */
+.hide {
+    display: none;
+}
+    /* Harf çevirici hover */
+.myDIV:hover + .hide {
+    display: block;
+    position: absolute;
+    transform: translateX(-50%);
+    background-color: #1c1a1a;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 4px;
+    font-size: 14px;
+    color: white;
+    bottom: 52%;
+    left: 63%;
+}
+/* Sesle Arama Yapın hover */
+.XDyW0e:hover + .hide {
+    display: block;
+    position: absolute;
+    transform: translateX(-50%);
+    background-color: #1c1a1a;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 4px;
+    font-size: 14px;
+    color: white;
+    bottom: 52%;
+    left: 65%;
+}
+
+/* Görselle aram Yapın */
+.nDcEnd:hover + .hide {
+    display: block;
+    position: absolute;
+    transform: translateX(-50%);
+    background-color: #1c1a1a;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 4px;
+    font-size: 14px;
+    color: white;
+    bottom: 52%;
+    left: 67%;
+}
+/* button */
+.button {
+    border: 1px solid #f2f2f2;
+    color: #5f6368;
+    text-size-adjust: 14px;
+    height: 36px ;
+    box-shadow: 0 1px 6px rgba(32,33,36,.28);
+    
+    
+}
+.button-div {
+    display: inline;
+    margin: 5px;
+
+}
+.button-div :hover {
+    box-shadow: 0 1px 1px rgba(0,0,0,.1);
+    background-color: #f8f9fa;
+    border: 1px solid #dadce0;
+    color: #202124;
+
+}
+/* footer top */
+.qarstb {
+    flex-grow: 1;
+    flex-shrink: 0;
+    box-sizing: border-box;
+}
+
+/* footer */
+.footer {
+    background-color: #f2f2f2;
+    box-sizing: border-box;
+    justify-content: space-evenly;
+    
+    
+}
+.footer-div {
+    margin: 5px;
+    padding: 0 auto;
+    background-color: #f2f2f2;
+}
+.ssOUyb {
+    
+    text-align: center;
+}
+.li-left{
+    float: left;
+}
+.li-right{
+    float: left;
+}
+
+ul {
+    list-style-type: none;
+}
+
+
+
