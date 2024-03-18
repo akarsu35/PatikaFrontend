@@ -131,7 +131,6 @@
     box-sizing: border-box;
     justify-content: space-evenly;
     background-origin: border-box;
-  
     height: 135px;
     
     
@@ -157,7 +156,8 @@ ul {
 
 }
 a {
-    color: #202124;;
+    color: #202124;
+    text-decoration: none;
 }
 
 
