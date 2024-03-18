@@ -130,6 +130,9 @@
     background-color: #f2f2f2;
     box-sizing: border-box;
     justify-content: space-evenly;
+    background-origin: border-box;
+    padding-bottom: 10px;
+    height: 135px;
     
     
 }
