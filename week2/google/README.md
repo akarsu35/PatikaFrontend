@@ -46,10 +46,5 @@
 - [CSS Tutorial](https://www.w3schools.com/css/)
 - Fatih Hayrioğlu'nun CSS Sitesi: [geçersiz URL kaldırıldı]
 
-### Notlar:
-
-- Bu ödevi tamamlamak için HTML ve CSS'nin temellerini bilmeniz gerekir.
-- Herhangi bir sorunuz olursa, bana sormaktan çekinmeyin.
-- Başarılar!
 
 ![Örnek Resim](google.png)
