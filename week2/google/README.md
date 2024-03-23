@@ -47,4 +47,4 @@
 - Fatih Hayrioğlu'nun CSS Sitesi: [geçersiz URL kaldırıldı]
 
 
-![Örnek Resim](google-tr.png)
+![Örnek Resim](google-tr .png)
