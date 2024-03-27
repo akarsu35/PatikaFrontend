@@ -5,4 +5,4 @@
 
 
 
-![Örnek Resim](medium-clone/medium-clone.gif)
+![Örnek Resim](medium-clone.gif)
