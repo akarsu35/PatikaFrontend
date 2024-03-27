@@ -8,3 +8,4 @@
 
 
 ![Örnek](gif.gif)
+https://github.com/akarsu35/PatikaFrontend/issues/1
