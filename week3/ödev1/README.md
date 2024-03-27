@@ -6,7 +6,4 @@
 - Ürünler sayfasında card yapısını kullanıldı.
 - Kullanılan card yapısı grid sistemin içinde kullanıldı.
 
-
-![Örnek](gif.gif)
-https://github.com/akarsu35/PatikaFrontend/issues/1
 ![gif](https://github.com/akarsu35/PatikaFrontend/assets/152394526/a678e15d-79f2-4eb4-8c3f-94a3c5ee1b42)
