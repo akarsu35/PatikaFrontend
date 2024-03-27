@@ -5,4 +5,4 @@
 
 
 
-![Örnek Resim](gif.gif)
+![](gif.gif)
