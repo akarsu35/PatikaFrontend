@@ -7,4 +7,4 @@
 - Kullanılan card yapısı grid sistemin içinde kullanıldı.
 
 
-![Örnek Resim](gif.gif)
+![Örnek](gif.gif)
