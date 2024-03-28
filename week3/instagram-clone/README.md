@@ -2,7 +2,7 @@
 
 # Gif için birazcık bekleyinizi:-)
 
-![insta](instagram.gif)
+![insta](./instagram.gif)
 
 
 ## Navbar Özellikleri
