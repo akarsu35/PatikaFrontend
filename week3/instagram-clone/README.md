@@ -1,5 +1,6 @@
 # Özelleştirilmiş Navbar ve Sayfa Düzeni README
 
+# Gif için birazcık bekleyinizi:-)
 ![instagram](https://github.com/akarsu35/PatikaFrontend/assets/152394526/61561ea5-c0bc-401f-bc63-c1a248f90309)
 
 Bu proje, bir web sayfasında özelleştirilmiş bir navbar ve içerik düzeni oluşturmayı amaçlamaktadır. Aşağıda proje detaylarını ve yapılan özelleştirmeleri bulabilirsiniz.
