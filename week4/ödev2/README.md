@@ -1,7 +1,7 @@
 # Play Your Dream Song
 
 Bu basit web uygulaması klavyeden harflere basıldığında farklı ses efektlerini çalar. Her harfe farklı bir ses efekti atanmıştır.
-![resim](./assets/ekran.png)
+![resim](ekran.png)
 
 ## Nasıl Kullanılır
 
