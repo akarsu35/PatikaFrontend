@@ -1,6 +1,6 @@
 ## Örnek Ekran Görüntüsü
 
-![Örnek Ekran Görüntüsü](clock.gif)
+![clock](https://github.com/akarsu35/PatikaFrontend/assets/152394526/6846d884-7916-49bb-b937-09b006ad381d)
 
 ## Nasıl Kullanılır?
 
